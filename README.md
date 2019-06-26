@@ -19,13 +19,13 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://github.com/speltzka/FBU-Todo/blob/master/ToDoVideo.gif
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-It was difficult to make the gif and use version control. I had also never used a mac.
+It was difficult to use version control and getting used to using a mac.
 
 ## License
 
